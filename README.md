@@ -6,6 +6,15 @@ I help teams turn messy processes into structured systems through workflow desig
 
 My background spans product management, operations, client delivery, and stakeholder alignment. Today I focus on building tools and workflows that reduce friction, improve visibility, and help organizations scale how work gets done.
 
+## 🔭 Current Focus
+
+* 🤖 Building NOVA, an internal AI operations assistant
+* ⚙️ Expanding practical workflow automation capabilities
+* 🧠 Exploring agent workflows and AI-assisted execution
+* 🏥 Supporting public health, prevention, and operational technology initiatives
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧭 Evidence-Based Program Discovery System
@@ -65,14 +74,28 @@ Current areas of exploration include:
 
 ---
 
+## 💡 Builder Philosophy
+
+I believe the best systems are simple, repeatable, and human-centered.
+
+My goal is not to add more technology for the sake of it. It's to reduce friction, improve clarity, and create systems people can actually use.
+
+---
+
 ## 🎯 Areas of Interest
 
-* 🤖 AI Implementation
-* 🧭 Workflow Design
-* 📦 Product Operations
-* 📈 Operational Excellence
-* 🏥 Public Health Technology
+* ⚙️ Workflow Automation
+* 🧠 Decision Support Systems
+* 🤖 AI-Assisted Operations
+* 🧩 Product Operations
+* 📚 Knowledge Management
 * 🌱 Human-Centered Systems
+
+---
+
+## ☕ Beyond the Keyboard
+
+When I'm not building systems, I'm usually studying counseling, exploring AI tools, or spending time with my little.
 
 ---
 
@@ -83,3 +106,4 @@ Current areas of exploration include:
 🏢 https://github.com/3MC-Automation
 
 💼 https://www.linkedin.com/in/erikashavon
+
